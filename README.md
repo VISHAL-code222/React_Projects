@@ -35,12 +35,37 @@
 <li>The todoInput state holds the current input in the todo text box.</li>
 </ul>
 
-![Screenshot](Use-state.png)
+
+  
 
 
 
 
 <h5>Add Todo</h5>
+<ul>
+
+<li>The addTodo function is triggered when the "Add" button is clicked.</li>
+<li>It checks if the input is not empty and adds the new todo to the todos array.</li>
+</ul>
+
+
+<h5>
+  Remove Todo
+</h5>
+<ul>
+<li>The removeTodo function is triggered when the "Remove" button is clicked for a specific todo.</li>
+<li>It creates a new array without the todo at the specified index and updates the todos state</li>
+
+
+
+
+  
+</ul>
+
+<h3>Conclusion</h3>
+<br>
+The TODO list application serves as a foundation for understanding React.js concepts and can be a starting point for building more complex applications with additional features and functionalities
+
 
 
 
