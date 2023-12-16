@@ -1,0 +1,28 @@
+
+
+.Add .container1{
+    width: 497px ;
+    height: 100px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 100px;
+    background-color: cornflowerblue;
+}
+.container1 #input{
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    background-color: rgba(210, 105, 30, 0.31);
+    border: 2px solid green;
+    
+}
+
+.container1 #btn{
+    width: 60px;
+    height: 25px;
+    background-color: cadetblue;
+    color: white;
+    font-weight: 100;
+}

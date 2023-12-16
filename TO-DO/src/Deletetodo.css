@@ -1,0 +1,20 @@
+.container2{
+    width: 453px;
+    height: 392px;
+    border:2px solid red;
+    margin-top: 14px;
+    margin-left: 21px;
+}
+.container2 li{
+    width: 420px;
+    background-color: rgb(237, 100, 134);
+    border: 1px solid black;
+    margin-top:5px;
+    margin-left: 14px;
+
+}
+ ul li #btn{
+    margin-left: 360px;
+    margin-bottom: 20px;
+    
+}
